@@ -1,3 +1,3 @@
 ## 🎥 Demo
 
-![Demo](demo.gif)
+![Demo](deo.gif)
