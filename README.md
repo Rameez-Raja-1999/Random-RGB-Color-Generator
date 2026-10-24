@@ -1,3 +1,3 @@
 ## 🎥 Demo
-## Wait for a seconds to see the Output o
+## Wait for a seconds to see the Output of 
 ![Demo](demo.gif)
