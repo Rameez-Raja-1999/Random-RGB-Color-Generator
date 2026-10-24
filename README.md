@@ -1,3 +1,3 @@
 ## 🎥 Demo
-## Wait for a seconds to see the Ou
+## Wait for a seconds to see the Output
 ![Demo](demo.gif)
